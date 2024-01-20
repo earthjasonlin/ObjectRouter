@@ -1,0 +1,15 @@
+// RENAME THIS FILE TO config.json AND REMOVE THIS LINE
+// ROUTING: "Request URL": "Target Relative URL in bucket"
+{
+    "port": 3000,
+    "s3": {
+        "accessKeyId": "",
+        "secretAccessKey": "",
+        "region": "",
+        "bucket": "",
+        "endpoint": ""
+    },
+    "routing": {
+        "avatar": "avatar.png"
+    }
+}
